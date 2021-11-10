@@ -1,3 +1,3 @@
 function Start(){
-    window.location="main.html";
+    window.location="main.html";//start
 }
